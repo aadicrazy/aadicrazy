@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aditya
+- 👀 I’m interested in Automation, DevOps, Kubernetes
+- 🌱 I’m currently learning Go lang
+- 💞️ I’m looking to collaborate on Opensource projects that involves development using go lang
+- 📫 You can reach me at b.aditya6@gmail.com
